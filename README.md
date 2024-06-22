@@ -3,7 +3,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,activitypub,wasm)](https://skillicons.dev)
 
-<img align="left" width="200" height="200" src="https://giphy.com/clips/southpark-south-park-episode-5-season-20-tcbhsMcnTACAGwJBoU"/>
+<img align="left" width="200" height="200" src="https://giphy.com/embed/tcbhsMcnTACAGwJBoU/video"/>
+
+
+
+
 <!--
 **ikemanuuel/ikemanuuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
