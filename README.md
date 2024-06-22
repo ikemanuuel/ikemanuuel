@@ -1,4 +1,6 @@
+<h1 align="center">Not A Friendly Developer!!!</h1>
 # 💫 About Me:
+<br><br>
 🔭 I’m currently working on Display center Website
 <br><br>
 🌱 I’m currently learning Angular,vue and Django
@@ -11,7 +13,7 @@
 <br><br>
 ⚡ Fun fact HA HA HA HA HA HA HA HA
 
-<p align="center"><h1>Not A Friendly Developer!!!</h1></p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikemmanuel) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@manuel) 
