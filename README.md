@@ -1,3 +1,4 @@
+Hi!👋 I'm Mike Emmanuel 
 <h1 align="center">Not A Friendly Developer!!!</h1>
 # 💫 About Me:
 <br><br>
