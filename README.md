@@ -1,14 +1,12 @@
 Hi!👋 I'm Mike Emmanuel 
-<h1 align="center">Not A Friendly Developer!!!</h1>
+<h1 align="center">A Friendly Developer!!!</h1>
 # 💫 About Me:
 <br><br>
-🔭 I’m currently working on Display center Website
+🌱 I’m currently learning Angular,Vue and Django
 <br><br>
-🌱 I’m currently learning Angular,vue and Django
+👯 I’m looking to collaborate on any project
 <br><br>
-👯 I’m looking to collaborate on Only fans
-<br><br>
-💬 Ask me about react and vue
+💬 Ask me about anything
 <br><br>
 📫 How to reach me darkibahay@gmail.com
 <br><br>
